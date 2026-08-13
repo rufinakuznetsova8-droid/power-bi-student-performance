@@ -2,8 +2,8 @@
 
    About the project
 
-This project presents a Power BI dashboard designed to analyze student academic performance and assessment results.
-Analytics & Time Intelligence.png
+This project presents a Power BI dashboard designed to analyze student academic performance and assessment results. 
+![Analytics & Time Intelligence](images/student-performance-dashboard.png)
 
    Analysis
 
