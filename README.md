@@ -12,13 +12,13 @@ The dashboard provides an analysis of students' grades across different types of
 
  ## The analysis includes:
 
-Overall average grade across all assessments;
-Average grades by assessment type;
-Average grade distribution by subject;
-Average grades by subject and class;
-Distribution of negative grades by assessment type;
-Monthly changes in student grades;
-Student performance trends, MoM changes, YTD analysis, and a two-month forecast
+- Overall average grade across all assessments;
+- Average grades by assessment type;
+- Average grade distribution by subject;
+- Average grades by subject and class;
+- Distribution of negative grades by assessment type;
+- Monthly changes in student grades;
+- Student performance trends, MoM changes, YTD analysis, and a two-month forecast
 
   ## Interactive filters
 
