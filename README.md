@@ -34,7 +34,4 @@ The dashboard includes interactive filters by:
 - Power Query
 - DAX
 
-  **Power BI file:** [Student_Performance_Analysis.pbix](https://github.com/rufinakuznetsova8-droid/power-bi-student-performance/blob/main/Student_Performance_Analysis.pbix)
-Power BI file:
-
-./Student_Performance_Analysis.pbix
+- **Power BI file:** [Student_Performance_Analysis.pbix](https://github.com/rufinakuznetsova8-droid/power-bi-student-performance/blob/main/Student_Performance_Analysis.pbix)ance_Analysis.pbix
