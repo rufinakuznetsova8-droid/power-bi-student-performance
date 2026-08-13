@@ -36,3 +36,4 @@ The dashboard includes interactive filters by:
   
 Power BI file:
 Student_Performance_Analysis.pbix
+./Student_Performance_Analysis.pbix
