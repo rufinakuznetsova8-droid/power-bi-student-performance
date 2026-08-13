@@ -24,12 +24,12 @@ The dashboard provides an analysis of students' grades across different types of
 
 The dashboard includes interactive filters by:
 
-Academic year,
-Grade type,
-Department hint
+- Academic year
+- Grade type
+- Department hint
 
   ## Tools
    
-Power BI,
-Power Query,
-DAX
+- Power BI
+- Power Query
+- DAX
