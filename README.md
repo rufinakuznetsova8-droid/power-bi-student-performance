@@ -10,6 +10,8 @@ This project presents a Power BI dashboard designed to analyze student academic 
 
 The dashboard provides an analysis of students' grades across different types of assessments, including tests, projects, exams, and homework.
 
+Power BI file: ./Student_Performance_Analysis.pbix
+
 ### The analysis includes:
 
 - Overall average grade across all assessments
