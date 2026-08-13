@@ -6,7 +6,7 @@ This project presents a Power BI dashboard designed to analyze student academic 
 
 ![Student Performance Dashboard](images/student-performance-dashboard.png)
 
- ##Analysis
+ ## Analysis
 
 The dashboard provides an analysis of students' grades across different types of assessments, including tests, projects, exams, and homework.
 
