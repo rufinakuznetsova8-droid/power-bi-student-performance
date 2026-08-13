@@ -1,6 +1,6 @@
 # Student Performance Analysis
 
-##About the project
+## About the project
 
 This project presents a Power BI dashboard designed to analyze student academic performance and assessment results. 
 
@@ -10,7 +10,7 @@ This project presents a Power BI dashboard designed to analyze student academic 
 
 The dashboard provides an analysis of students' grades across different types of assessments, including tests, projects, exams, and homework.
 
-##The analysis includes:
+## The analysis includes:
 
 - Overall average grade across all assessments
 - Average grades by assessment type
@@ -20,7 +20,7 @@ The dashboard provides an analysis of students' grades across different types of
 - Monthly changes in student grades
 - Student performance trends, MoM changes, YTD analysis, and a two-month forecast
 
-##Interactive filters
+## Interactive filters
 
 The dashboard includes interactive filters by:
 
@@ -28,7 +28,7 @@ The dashboard includes interactive filters by:
 - Grade type
 - Department hint
 
-##Tools
+## Tools
    
 - Power BI
 - Power Query
